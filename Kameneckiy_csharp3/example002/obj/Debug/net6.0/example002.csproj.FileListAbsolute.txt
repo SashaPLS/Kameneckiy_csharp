@@ -1,0 +1,15 @@
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\bin\Debug\net6.0\example002.exe
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\bin\Debug\net6.0\example002.deps.json
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\bin\Debug\net6.0\example002.runtimeconfig.json
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\bin\Debug\net6.0\example002.dll
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\bin\Debug\net6.0\example002.pdb
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.csproj.AssemblyReference.cache
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.AssemblyInfoInputs.cache
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.AssemblyInfo.cs
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.dll
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\refint\example002.dll
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.pdb
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\example002.genruntimeconfig.cache
+C:\Users\Sasha\Lesson3.GB\Kameneckiy_csharp3\example002\obj\Debug\net6.0\ref\example002.dll
